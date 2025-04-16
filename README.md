@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @annihilation12
+- 👋 Hi, I’m @aniyacode
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
 
